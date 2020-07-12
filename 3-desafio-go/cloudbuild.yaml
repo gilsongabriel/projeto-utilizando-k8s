@@ -1,6 +1,6 @@
 steps:
   -   id: 'Open folder'
-      name: 'folder go'
+      name: 'golang'
       args: ['cd', '3-desafio-go']
 
   -   id: 'Run tests'
