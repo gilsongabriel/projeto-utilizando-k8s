@@ -1,0 +1,4 @@
+steps:
+  -   id: 'Run tests'
+      name: 'golang'
+      args: ['go', 'test']
